@@ -7,9 +7,11 @@ Files have a basic documentation mostly used by me to remember what everything i
 
 To be better explained during presentation of the project.
 
-I run the client with ```npm run dev``` command inside ./www folder
+I run the client with ```bash 
+npm run dev``` 
+command inside ./www folder
 
-I run the server with ```npm run dev command``` inside ./server folder
+I run the server with ```bash npm run dev``` command inside ./server folder
 
 client listening on port 3000.
 
