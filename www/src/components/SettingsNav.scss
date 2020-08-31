@@ -1,0 +1,8 @@
+.SettingsNav {
+  // Fix a Bulma + Safari bug where
+  // text of active tab is black on black.
+  // See https://github.com/jgthms/bulma/issues/3009
+  &.active-tab-text-white li.is-active a {
+    color: white !important;
+  }
+}
